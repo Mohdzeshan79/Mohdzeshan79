@@ -38,7 +38,7 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 	:technologist: I’m currently learning *python, *nodejs.
 
- - :raised_hand: Ask me about html,css ,*javascript,bootsrap.
+ - :raised_hand: Ask me about html,css ,*javascript,bootstrap.
 
 - :zap: In my free time, I create project in diffrent technology.
 
@@ -56,9 +56,24 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  title="Java" alt="c++" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  title="Jquery" alt="jquery" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-          
-          
-          
-          
+
+---
+
+### :fire: My Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdzeshan79&_progress=true)
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mohdzeshan79&theme=dark" alt="GitHub Streak" /></a>
           
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mohdzeshan79&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mohdzeshan79&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohdzeshan79&show_icons=true" />
+</picture>
