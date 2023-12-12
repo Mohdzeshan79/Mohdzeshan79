@@ -36,9 +36,9 @@
 I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Currently i am pursuing bechlor of computer application from Himalyan institute of technology.
 
-- 	:technologist: I’m currently learning *python, *nodejs.
+- 	:technologist: I’m currently learning *python, *React.js.
 
- - :raised_hand: Ask me about html,css ,*javascript,bootstrap.
+ - :raised_hand: Ask me about Html,Css ,*Javascript,Bootstrap *Jquery.
 
 - :zap: In my free time, I create project in diffrent technology.
 
