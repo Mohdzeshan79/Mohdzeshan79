@@ -31,14 +31,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Currently I am pursuing a Bachelor of Computer Application from Himalayan Institute of Technology.
+I am a Mobile Appp Developer developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: BCA Graduate from Himalayan Institute of Technology.
 
-- :technologist: I’m currently learning Python and React.js.
+- :technologist: I’m currently learning Swift and React-native.
 
-- :raised_hand: Ask me about HTML, CSS, JavaScript, Bootstrap, and jQuery.
+- :raised_hand: Ask me about Kotlin, Jetpack compose , Html, Css, Javascript, React.js, Bootstrap, Sql,and Node js.
 
-- :zap: In my free time, I create projects using different technologies.
+- :zap: I'm passionate about building modern Android apps with Kotlin and exploring iOS development with Swift and SwiftUI.
 
 - :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-mohd--zeshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-zeshan-0429a4295)
 
@@ -46,17 +46,19 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 
 ---
+
 
 ### :fire: My Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdzeshan79&_progress=true)
